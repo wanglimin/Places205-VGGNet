@@ -1,4 +1,4 @@
-name: "siat_scene_vgg__11_layers"
+name: "siat_scene_vgg_11_layers"
 input: "data"
 input_dim: 10
 input_dim: 3
