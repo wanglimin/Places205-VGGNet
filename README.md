@@ -1,9 +1,11 @@
 # VGGNets for Scene Recognition
 
-Here we release our trained VGGNet models on the large-scale Places205 dataset, called **Places205-VGGNet** models, from the following reports:
+Here we release our trained VGGNet models on the large-scale Places205 dataset, called **Places205-VGGNet** models, from the following report:
 
     Places205-VGGNet Models for Scene Recognition
     Limin Wang, Sheng Guo, Weilin Huang, and Yu Qiao, in arXive, 2015
+
+If you use our released Places205-VGGNet models, please cite our report above.
 
 #### Performance on the Places205 dataset
 
@@ -49,4 +51,9 @@ In order to speed up the training procedure of VGGNets, we use a Multi-GPU exten
 
 https://github.com/yjxiong/caffe/tree/action_recog
 
-Meanwhile, we add the strategies of multi-scale cropping and corner cropping provided by this extension, which has been proved to be effective for action recognition in videos.
+Meanwhile, we add the strategies of _multi-scale cropping_ and _corner cropping_ provided by this extension, which has been proved to be effective for action recognition in videos.
+
+#### Questions
+Contact 
+- [Limin Wang](http://wanglimin.github.io/)
+- [Weilin Huang](http://www.wlhuang.com/)
