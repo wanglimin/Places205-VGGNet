@@ -9,38 +9,19 @@ If you use our released Places205-VGGNet models, please cite our report above.
 
 #### Performance on the Places205 dataset
 
-<table>
-    <tr>
-        <td></td> <td>top-1 val/test</td>  <td>top-5 val/test</td>
-        
-    </tr>
-    <tr>
-        <td>Places205-VGGNet-11</td> <td>58.6/59.0 </td> <td>87.6/87.6</td>
-    </tr>
-     <tr>
-        <td>Places205-VGGNet-13</td> <td>60.2/60.1</td> <td>88.1/88.5</td>
-    </tr>
-    <tr>
-        <td>Places205-VGGNet-16</td> <td>60.6/60.3</td> <td>88.5/88.8</td>
-    </tr>
-</table>
+|        Model        | top-1 val/test | top-2 val/test |
+|:-------------------:|:--------------:|:--------------:|
+| Places205-VGGNet-11 |    58.6/59.0   |    87.6/87.6   |
+| Places205-VGGNet-13 |    60.2/60.1   |    88.1/88.5   |
+| Places205-VGGNet-16 |    60.6/60.3   |    88.5/88.8   |
 
 #### Performance on the MIT67 and SUN397 dataset
 
-<table>
-    <tr>
-        <td></td> <td>MIT67</td>  <td>SUN397</td>
-    </tr>
-    <tr>
-        <td>Places205-VGGNet-11</td> <td>82.0 </td> <td>65.3</td>
-    </tr>
-     <tr>
-        <td>Places205-VGGNet-13</td> <td>81.9</td> <td>66.7</td>
-    </tr>
-    <tr>
-        <td>Places205-VGGNet-16</td> <td>81.2</td> <td>66.9</td>
-    </tr>
-</table>
+|        Model        | MIT67 | SUN397 |
+|:-------------------:|:-----:|:------:|
+| Places205-VGGNet-11 |  82.0 |  65.3  |
+| Places205-VGGNet-13 |  81.9 |  66.7  |
+| Places205-VGGNet-16 |  81.2 |  66.9  |
 
 #### Download
 coming soon
