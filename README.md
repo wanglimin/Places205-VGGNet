@@ -18,10 +18,10 @@ If you use our released Places205-VGGNet models, please cite our report above.
         <td>Places205-VGGNet-11</td> <td>58.6/59.0 </td> <td>87.6/87.6</td>
     </tr>
      <tr>
-        <td>Places205-VGGNet-11</td> <td>60.2/60.1</td> <td>88.1/88.5</td>
+        <td>Places205-VGGNet-13</td> <td>60.2/60.1</td> <td>88.1/88.5</td>
     </tr>
     <tr>
-        <td>Places205-VGGNet-11</td> <td>60.6/60.3</td> <td>88.5/88.8</td>
+        <td>Places205-VGGNet-16</td> <td>60.6/60.3</td> <td>88.5/88.8</td>
     </tr>
 </table>
 
@@ -35,10 +35,10 @@ If you use our released Places205-VGGNet models, please cite our report above.
         <td>Places205-VGGNet-11</td> <td>82.0 </td> <td>65.3</td>
     </tr>
      <tr>
-        <td>Places205-VGGNet-11</td> <td>81.9</td> <td>66.7</td>
+        <td>Places205-VGGNet-13</td> <td>81.9</td> <td>66.7</td>
     </tr>
     <tr>
-        <td>Places205-VGGNet-11</td> <td>81.2</td> <td>66.9</td>
+        <td>Places205-VGGNet-16</td> <td>81.2</td> <td>66.9</td>
     </tr>
 </table>
 
