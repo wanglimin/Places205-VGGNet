@@ -40,7 +40,7 @@ Here we release our trained VGGNet models on the large-scale Places205 dataset, 
     </tr>
 </table>
 
-#### Downloading
+#### Download
 coming soon
 
 #### Multi-GPU Implementation
