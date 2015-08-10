@@ -25,7 +25,7 @@ We use 5 crops and their horizontal flippings of each image for testing.
 | Places205-VGGNet-13 |  81.9 |  66.7  |
 | Places205-VGGNet-16 |  81.2 |  66.9  |
 
-We extract the fc6-layer features of our trained Places205-VGGNet models, which are further normalized by l2-norm.
+We extract the fc6-layer features of our trained Places205-VGGNet models, which are further normalized by L2-norm.
 
 #### Download
 coming soon
