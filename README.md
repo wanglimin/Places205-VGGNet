@@ -3,7 +3,7 @@
 Here we release our trained VGGNet models on the large-scale Places205 dataset, called **Places205-VGGNet** models, from the following report:
 
     Places205-VGGNet Models for Scene Recognition
-    Limin Wang, Sheng Guo, Weilin Huang, and Yu Qiao, in arXive, 2015
+    Limin Wang, Sheng Guo, Weilin Huang, and Yu Qiao, in arXive 1508.01667, 2015
 
 If you use our released Places205-VGGNet models, please cite our report above.
 
@@ -15,6 +15,8 @@ If you use our released Places205-VGGNet models, please cite our report above.
 | Places205-VGGNet-13 |    60.2/60.1   |    88.1/88.5   |
 | Places205-VGGNet-16 |    60.6/60.3   |    88.5/88.8   |
 
+We use 5 crops and their horizontal flippings of each image for testing.
+
 #### Performance on the MIT67 and SUN397 dataset
 
 |        Model        | MIT67 | SUN397 |
@@ -22,6 +24,8 @@ If you use our released Places205-VGGNet models, please cite our report above.
 | Places205-VGGNet-11 |  82.0 |  65.3  |
 | Places205-VGGNet-13 |  81.9 |  66.7  |
 | Places205-VGGNet-16 |  81.2 |  66.9  |
+
+We extract the fc6-layer features of our trained Places205-VGGNet models, which are further normalized by l2-norm.
 
 #### Download
 coming soon
