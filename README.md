@@ -41,4 +41,5 @@ Meanwhile, we add the strategies of _multi-scale cropping_ and _corner cropping_
 #### Questions
 Contact 
 - [Limin Wang](http://wanglimin.github.io/)
+- [Sheng Guo] (sheng.guo@siat.ac.cn)
 - [Weilin Huang](http://www.wlhuang.com/)
