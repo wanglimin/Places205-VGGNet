@@ -26,13 +26,13 @@ We use 5 crops and their horizontal flippings of each image for testing.
 We extract the fc6-layer features of our trained Places205-VGGNet models, which are further normalized by L2-norm.
 
 #### Download
-- Places205-VGGNet-11: 
+- Places205-VGGNet-11: <br />
   http://mmlab.siat.ac.cn/Places205-VGGNet/siat_scene_vgg_11.caffemodel
-- Places205-VGGNet-13: 
+- Places205-VGGNet-13: <br />
   http://mmlab.siat.ac.cn/Places205-VGGNet/siat_scene_vgg_13.caffemodel
-- Places205-VGGNet-16: 
+- Places205-VGGNet-16: <br />
   http://mmlab.siat.ac.cn/Places205-VGGNet/siat_scene_vgg_16.caffemodel
-- Mean file: 
+- Mean file: <br />
   http://mmlab.siat.ac.cn/Places205-VGGNet/places205_mean.mat
 
 These models are relased for non-conmercial use. If you use these models in your research, thanks to cite our above report.
