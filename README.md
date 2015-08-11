@@ -7,7 +7,7 @@ Here we release our trained VGGNet models on the large-scale Places205 dataset, 
 
 #### Performance on the Places205 dataset
 
-|        Model        | top-1 val/test | top-2 val/test |
+|        Model        | top-1 val/test | top-5 val/test |
 |:-------------------:|:--------------:|:--------------:|
 | Places205-VGGNet-11 |    58.6/59.0   |    87.6/87.6   |
 | Places205-VGGNet-13 |    60.2/60.1   |    88.1/88.5   |
