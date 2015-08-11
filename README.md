@@ -28,7 +28,12 @@ We use 5 crops and their horizontal flippings of each image for testing.
 We extract the fc6-layer features of our trained Places205-VGGNet models, which are further normalized by L2-norm.
 
 #### Download
-coming soon
+- Places205-VGGNet-11: http://mmlab.siat.ac.cn/Places205-VGGNet/siat_scene_vgg_11.caffemodel
+- Places205-VGGNet-13: http://mmlab.siat.ac.cn/Places205-VGGNet/siat_scene_vgg_13.caffemodel
+- Places205-VGGNet-16: http://mmlab.siat.ac.cn/Places205-VGGNet/siat_scene_vgg_16.caffemodel
+- Mean file: http://mmlab.siat.ac.cn/Places205-VGGNet/places205_mean.mat
+
+These models are relased for non-conmercial use. If you use these models in your research, thanks to cite our above report.
 
 #### Multi-GPU Implementation
 
@@ -43,3 +48,4 @@ Contact
 - [Limin Wang](http://wanglimin.github.io/)
 - [Sheng Guo] (mailto:sheng.guo@siat.ac.cn)
 - [Weilin Huang](http://www.wlhuang.com/)
+
