@@ -5,8 +5,6 @@ Here we release our trained VGGNet models on the large-scale Places205 dataset, 
     Places205-VGGNet Models for Scene Recognition
     Limin Wang, Sheng Guo, Weilin Huang, and Yu Qiao, in arXive 1508.01667, 2015
 
-If you use our released Places205-VGGNet models, please cite our report above.
-
 #### Performance on the Places205 dataset
 
 |        Model        | top-1 val/test | top-2 val/test |
