@@ -2,7 +2,7 @@
 
 Here we release our trained VGGNet models on the large-scale Places205 dataset, called **Places205-VGGNet** models, from the following report:
 
-    Places205-VGGNet Models for Scene Recognition
+    Places205-VGGNet Models for Scene Recognition [link](http://arxiv.org/abs/1508.01667)
     Limin Wang, Sheng Guo, Weilin Huang, and Yu Qiao, in arXive 1508.01667, 2015
 
 #### Performance on the Places205 dataset
