@@ -14,7 +14,7 @@ http://arxiv.org/abs/1508.01667
 | Places205-VGGNet-11 |    58.6/59.0   |    87.6/87.6   |
 | Places205-VGGNet-13 |    60.2/60.1   |    88.1/88.5   |
 | Places205-VGGNet-16 |    60.6/60.3   |    88.5/88.8   |
-| Places205-VGGNet-19 |    60.7/-      |    88.7/-   |
+| Places205-VGGNet-19 |    60.7/60.6   |    88.7/88.9   |
 
 
 We use 5 crops and their horizontal flippings of each image for testing.
