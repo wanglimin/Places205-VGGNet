@@ -36,6 +36,8 @@ We extract the fc6-layer features of our trained Places205-VGGNet models, which 
   http://mmlab.siat.ac.cn/Places205-VGGNet/siat_scene_vgg_13.caffemodel
 - Places205-VGGNet-16: <br />
   http://mmlab.siat.ac.cn/Places205-VGGNet/siat_scene_vgg_16.caffemodel
+- Places205-VGGNet-19: <br />
+  http://mmlab.siat.ac.cn/Places205-VGGNet/siat_scene_vgg_19.caffemodel
 - Mean file: <br />
   http://mmlab.siat.ac.cn/Places205-VGGNet/places205_mean.mat
 
